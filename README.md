@@ -38,3 +38,7 @@ Bash terminal<br/>
 * [Containerization with Docker and Kubernetes in Azure [Video]](https://www.packtpub.com/virtualization-and-cloud/containerization-docker-and-kubernetes-azure-video)
 
 * [AWS MasterClass: Docker Containers In The Cloud With AWS ECS [Video]](https://www.packtpub.com/application-development/aws-masterclass-docker-containers-cloud-aws-ecs-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788994033">https://packt.link/free-ebook/9781788994033 </a> </p>
